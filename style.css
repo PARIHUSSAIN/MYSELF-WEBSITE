@@ -1,0 +1,68 @@
+★{ 
+   margin; 0;
+   padding; 0;
+   font-family: 'Combo', cursive;   
+
+}
+
+.wrapper{
+   margin; auto;
+}
+
+body{
+  background: url("pic19.jpeg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+ 
+.nav-area{
+   float: right;
+   list-style: none;
+   margin-top: 4px;
+
+}
+.nav-area li{ 
+   display: inline-block;
+
+}
+
+.nav-area li a{
+     color: black;
+     padding: 5px 5px;
+     font-size: 25px;
+}
+
+.nav-area li a:hover{
+     Color: white;
+
+}
+
+.logo img{
+       float: left;
+        
+}
+
+h1{    
+       Color: Cornsilk;
+       Font-size: 60px;
+       Text-align:center;
+       font-family: 'Monoton', cursive;              
+}
+
+h2{
+   Color: Cornsilk;
+   Text-align: left;
+   Text-decoration-line: underline overline;
+   Text-decoration-style: dotted;
+   Font-size: 30px;
+   font-family: 'Fredoka One', cursive;
+}
+
+P{
+   
+  Font-size: 25px;
+  font-family: 'Indie Flower', cursive;
+}
+

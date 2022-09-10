@@ -1,0 +1,86 @@
+★{ 
+
+   margin; 0;
+   padding; 0;
+   font-family: 'Combo', cursive;   
+
+}
+
+.wrapper{
+   margin; auto;
+}
+
+body{
+  background: url("me5.png");
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+ 
+.nav-area{
+   float: right;
+   list-style: none;
+   margin-top: 20px;
+
+}
+.nav-area li{ 
+   display: inline-block;
+
+}
+
+.nav-area li a{
+     color: white;
+     padding: 5px 20px;
+     font-size: 20px;
+}
+
+.nav-area li a:hover{
+     Color: white;
+
+}
+
+.logo img{
+       float: left;
+       Padding-left: 5%
+       Padding-top: 2%
+}
+
+.welcome-text{
+     position: absolute;  
+     margin: 20% 30%;
+     text-align: center;
+}
+
+.welcome-text h1{
+       text-align: center;
+       color: white;
+       text-transformation: uppercase;
+      font-size: 60px;
+      border: 5px solid white;
+      displace: inline-block;
+}
+
+.welcome-text a{
+    Border: 3px solid white;
+    Padding: 10px 25px;
+    Text-transform: uppercase;
+    Font-size: 17px;
+    Margin-top: 20px;
+    Display: inline-block;
+    Color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+       
+        
+
